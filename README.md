@@ -1,4 +1,5 @@
-### <img align="center" alt="Dani-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />🚀Oi, sou Daniel Eloy 👋
+### <img align="center" alt="Dani-LogoGitHub" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+🚀Oi, sou Daniel Eloy 👋
 
 - 🔭 Trabalho como Dev, back-end
 - 🌱 Estou em constante aprendizado
@@ -12,8 +13,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielEloy&theme=transparent&show_icons=true&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEloy&theme=transparent&layout=compact&langs_count=7">
     
-<div style="display: inline_block"><br>
-  
+<div inline_block"><br>
   <img align="center" alt="Dani-Java" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Dani-Js" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-HTML" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
