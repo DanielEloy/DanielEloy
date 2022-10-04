@@ -29,14 +29,14 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/daniel-eloy-6820661a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://wa.me/5511991879192?text=Oi,%20vim%20atrav%C3%A9s%20do%20seu%20link" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> 
+   <a href="https://wa.me/5511991879192?text=Oi,%20vim%20atrav%C3%A9s%20do%20seu%20link" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCek4BMeQ1ATnKrQiMywZBAw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/danieleloy1987" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/DrV8cJFA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dans_eloy@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
  
   <!--![Snake animation](https://github.com/DanielEloy/DanielEloy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)-->
- <div>     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</div>
+     
      
 <div>
     <img align="right" alt="Dani-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
