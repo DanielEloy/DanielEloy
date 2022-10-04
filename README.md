@@ -38,7 +38,8 @@
   <!--![Snake animation](https://github.com/DanielEloy/DanielEloy/blob/output/github-contribution-grid-snake.svg)-->
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
      
-     
+                                                                                                             🚀Contagem de acessos
 <div>
-    <img align="right" alt="Dani-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="right" alt="Dani-Contagem" src="https://profile-counter.glitch.me/DanielEloy/count.svg" /></a>
+    <img align="left" alt="Dani-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
