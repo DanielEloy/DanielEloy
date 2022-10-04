@@ -1,4 +1,10 @@
 ### <img align="center" alt="Dani-LogoGitHub" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." height="70" width="70" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 🚀Oi, sou Daniel Eloy 👋
 
 - 🔭 Trabalho como Dev, back-end
