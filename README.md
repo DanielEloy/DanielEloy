@@ -37,7 +37,6 @@
  
   <!--![Snake animation](https://github.com/DanielEloy/DanielEloy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)-->
       ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
-  <div>
+
     <img align="right" alt="Dani-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </div>
