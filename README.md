@@ -35,7 +35,8 @@
  <a href="https://discord.gg/DrV8cJFA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dans_eloy@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
  
-  <!--![Snake animation](https://github.com/DanielEloy/DanielEloy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)-->
+  <!--![Snake animation](https://github.com/DanielEloy/DanielEloy/blob/output/github-contribution-grid-snake.svg)-->
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
      
      
 <div>
