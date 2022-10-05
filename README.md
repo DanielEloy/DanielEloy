@@ -5,7 +5,7 @@
   <img align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." height="70" width="70" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-🚀Oi, sou Daniel Eloy 👋
+<h2>🚀Oi, sou Daniel Eloy 👋</h2>
 
 - 🔭 Trabalho como Dev, back-end
 - 🌱 Estou em constante aprendizado
