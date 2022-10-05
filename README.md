@@ -1,4 +1,4 @@
-### <img align="center" alt="Dani-LogoGitHub" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<!-- Este conteúdo não aparecerá no Markdown (linguagem de marcação) renderizado -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -7,18 +7,19 @@
 
 <h2>🚀Oi, sou Daniel Eloy 👋</h2>
 
-- 🔭 Trabalho como Dev, back-end
-- 🌱 Estou em constante aprendizado
-- 🤔 É tanta tecnologia legal para se estudar, escolhi como base JAVA e dai estou expandindo. Ao infinito e além...
-- 💬 Se quiser contribuir fique a vontade
-- 😄 Grato.
-- ⚡ Forte abraço!
+- 🔭 *Trabalho como Dev, back-end*
+- 🌱 *Estou em constante aprendizado*
+- 🤔 *É tanta tecnologia legal para se estudar, escolhi como base JAVA e dai estou expandindo. Ao infinito e além...*
+- 💬 *Se quiser contribuir fique a vontade*
+- 😄 *Grato.*
+- ⚡ **Forte abraço!**
 
 <div align="center">
   <a href="https://github.com/DanielEloy">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielEloy&theme=transparent&show_icons=true&include_all_commits=true&count_private=true">
+  <img align="center" alt="Dani-LogoGitHub" height="70" width="70" src="https://4.bp.blogspot.com/-OWkJoiab5kk/UYLxLOe8xWI/AAAAAAAAB1A/fcn2ri4Ff_E/s1600/IkkiMetabee6.gif" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEloy&theme=transparent&layout=compact&langs_count=7">
-    
+    <!--Bloco com as badges de linguagem que conheço  -->
 <div inline_block"><br>
   <img align="center" alt="Dani-Java" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Dani-Js" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,3 +49,16 @@
     <img align="right" alt="Dani-Contagem" src="https://profile-counter.glitch.me/DanielEloy/count.svg" /></a>
     <img align="left" alt="Dani-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+
+<!-- Links úteis
+
+Guia de markdown - https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDdzRGUyX2R2S0c5VTFZSmpSUTlNcGZ0YTZTUXxBQ3Jtc0ttNG1kR0Rwb3lHMWtha054Z2JQYnM3WFNTUUp3UVdfNTAxblF6bUU5aGtTZkFsRHl0NXk5cUFlMXcybTY0Z0xTVEpRellPOTJWb2haZmxXdlQya2pCMjEtQ0NtWDFxMmhTTlozM1FDSDdTcjNSTkxTOA&q=https%3A%2F%2Fdocs.pipz.com%2Fcentral-de-ajuda%2Flearning-center%2Fguia-basico-de-markdown%23open&v=TsaLQAetPLU
+
+Site de emojis - https://emojipedia.org/search/?q=bag
+
+Repositório do Github Stats - https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXBHRENmcUFHQThBYklJUnlzQ25QaFdLdEgyd3xBQ3Jtc0tuOGdPdFhSa3AzSXlrdUQ5cjk4MFQ4dlNpZUsyblN5V3RlaW1RTm5JWHF4MXVsOWlLazJHelE5UDRUZEktZ2FsaWpaSlgzeWxxNTlwOUVDNjVvMEFNZFlPU2hkUWNaeXRQRU1VS0JGczlNTkY2S1RqMA&q=https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats&v=TsaLQAetPLU
+
+Site de Badges 1 - https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXVyX2JHQkVQRjZYWXZiY2JOU1JzNFJLbHJSQXxBQ3Jtc0tuX3hhMGxUM001TU16Rm1UWlpjek43T2NoLVZoeG03RlBSV2xVc1FibVBpbGVESnNZYU93bG1SWXBTdGNEZnRGOE9qX19YYV8yTjNRVXRUWTRDR2Y4VUVqbDJWSERUZTVwVTR4d0F3Y3ZTRV9RaGV6RQ&q=https%3A%2F%2Fdev.to%2Fenvoy_%2F150-badges-for-github-pnk&v=TsaLQAetPLU
+
+Fazedor de gifs - https://picrew.me/image_maker/338224 -->
