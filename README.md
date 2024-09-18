@@ -22,7 +22,7 @@
    </div>
   
 
-<div align="center" "Bloco com as badges de linguagem que conheço"><br>
+<div height="90" width="70" align="center" "Bloco com as badges de linguagem que conheço"><br>
    
   <img  alt="Dani-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img  alt="Dani-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
