@@ -29,7 +29,7 @@
   <img height="90" width="90" alt="Dani-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!--img align="center" alt="Dani-CSS" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"-->
   <!--img align="center" alt="Dani-Python" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"-->
-  <img height="100" width="90" alt="Dani-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"><br>
+  <img height="100" width="90" alt="Dani-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img height="100" width="90" alt="Dani-Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <!--img height="100" width="90" alt="Dani-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"-->
   <img height="100" width="90" alt="Dani-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
