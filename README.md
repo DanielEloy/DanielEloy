@@ -16,9 +16,11 @@
 
 <div align="center">
   <a href="https://github.com/DanielEloy"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielEloy&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&locale=en">
+  </a>
   <img  alt="Dani-LogoMetabots" height="70" width="70" src="https://4.bp.blogspot.com/-OWkJoiab5kk/UYLxLOe8xWI/AAAAAAAAB1A/fcn2ri4Ff_E/s1600/IkkiMetabee6.gif" />
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEloy&theme=transparent&layout=compact&langs_count=7">
     <!--Bloco com as badges de linguagem que conheço  -->
+</div>
 <div><br>
    
   <img align="center" alt="Dani-Java" height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
