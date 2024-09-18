@@ -22,7 +22,7 @@
    </div>
   
 
-<div align="center" Bloco com as badges de linguagem que conheço><br>
+<div align="center" height="90" width="150" Bloco com as badges de linguagem que conheço><br>
    
   <img align="center" alt="Dani-Java" height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Dani-Js" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
