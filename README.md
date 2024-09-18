@@ -24,7 +24,7 @@
 
 <div align="center" "Bloco com as badges de linguagem que conheço"><br>
    
-  <img height="90" width="70" alt="Dani-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img height="90" width="90" alt="Dani-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img height="90" width="70" alt="Dani-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="90" width="70" alt="Dani-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!--img align="center" alt="Dani-CSS" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"-->
