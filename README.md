@@ -13,16 +13,16 @@
 - 💬 *Se quiser contribuir fique a vontade*
 - 😄 *Grato.*
 - ⚡ **Forte abraço!**
-
+<br>
 <div align="center">
   <a href="https://github.com/DanielEloy"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielEloy&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&locale=en">
   </a>
   <img  alt="Dani-LogoMetabots" height="70" width="70" src="https://4.bp.blogspot.com/-OWkJoiab5kk/UYLxLOe8xWI/AAAAAAAAB1A/fcn2ri4Ff_E/s1600/IkkiMetabee6.gif" />
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEloy&theme=transparent&layout=compact&langs_count=7">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEloy&theme=transparent&layout=compact&langs_count=7"><br>
    </div>
   
 
-<div align="center" "Bloco com as badges de linguagem que conheço"><br>
+<div align="center" id="Bloco com as badges de linguagem que conheço"><br>
    
   <img alt="Dani-Java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img alt="Dani-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,11 +36,11 @@
   <img alt="Dani-Git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></p>
   <!--img align="center" alt="Dani-NodeJs" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"-->
   <img alt="Dani-learn.microsoft" height="100" width="100" src="https://learn.microsoft.com/pt-br/training/achievements/apps-and-infra-migration-modernization.svg">
-  <img alt="Dani-LGPDF" height="100" width="100" src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png">
+  <img alt="Dani-LGPDF" height="100" width="100" src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png"><br><br>
     
 </div>
     
-<div align="center"> 
+<div id="Contatos" align="center"> 
   <a href="https://www.linkedin.com/in/daniel-eloy-6820661a5" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
