@@ -24,19 +24,19 @@
 
 <div align="center" height="90" width="150" Bloco com as badges de linguagem que conheço><br>
    
-  <img  alt="Dani-Java" height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img  alt="Dani-Js" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  alt="Dani-HTML" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="Dani-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img  alt="Dani-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="Dani-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!--img align="center" alt="Dani-CSS" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"-->
   <!--img align="center" alt="Dani-Python" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"-->
-  <img  alt="Dani-Android" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img  alt="Dani-Jenkins" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img  alt="Dani-Linux" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img  alt="Dani-MySql" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img  alt="Dani-Git" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/><br>
+  <img  alt="Dani-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  <img  alt="Dani-Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img  alt="Dani-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img  alt="Dani-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img  alt="Dani-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/><br>
   <!--img align="center" alt="Dani-NodeJs" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"-->
-  <img align="center" alt="Dani-learn.microsoft" height="100" width="100" src="https://learn.microsoft.com/pt-br/training/achievements/apps-and-infra-migration-modernization.svg">
-  <img align="center" alt="Dani-LGPDF" height="120" width="120" src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png">
+  <img alt="Dani-learn.microsoft" src="https://learn.microsoft.com/pt-br/training/achievements/apps-and-infra-migration-modernization.svg">
+  <img alt="Dani-LGPDF" src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png">
     
 </div>
     
