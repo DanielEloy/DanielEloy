@@ -5,7 +5,7 @@
   <img align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." height="70" width="70" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-<h2>🚀Oi, sou Daniel Eloy 👋</h2>
+<h2>👋Oi, sou Daniel Eloy 🚀</h2>
 
 - 🔭 *Trabalho como Dev, back-end*
 - 🌱 *Estou em constante aprendizado*
@@ -34,7 +34,7 @@
   <img alt="Dani-Jenkins" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <!--img height="100" width="90" alt="Dani-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"-->
   <img alt="Dani-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img alt="Dani-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></p>
+  <img alt="Dani-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <!--img align="center" alt="Dani-NodeJs" height="40" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"-->
   <img alt="Dani-learn.microsoft" height="50" width="50" src="https://learn.microsoft.com/pt-br/training/achievements/apps-and-infra-migration-modernization.svg">
   <img alt="Dani-LGPDF" height="50" width="50" src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png"><br><br>
